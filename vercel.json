@@ -3,13 +3,11 @@
   "github": {
     "silent": true
   },
-  {
-    "redirects": [
-      {
-        "source": "/",
-        "destination": "/notes",
-        "permanent": true
-      }
-    ]
-  }
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/notes",
+      "permanent": true
+    }
+  ]
 }
