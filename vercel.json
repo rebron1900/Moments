@@ -2,5 +2,14 @@
   "buildCommand": "pnpm build",
   "github": {
     "silent": true
+  },
+  {
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/notes",
+        "permanent": true
+      }
+    ]
   }
 }
